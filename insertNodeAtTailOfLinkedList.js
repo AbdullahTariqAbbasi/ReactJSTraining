@@ -1,3 +1,0 @@
-function insertNodeAtTail(head, data) {
-    
-}
